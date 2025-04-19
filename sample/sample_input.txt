@@ -1,0 +1,2 @@
+Topic: Neural Networks
+Learning Objectives: Understand backpropagation and activation functions
